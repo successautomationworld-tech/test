@@ -1,3 +1,2 @@
-hi small
-doctor
-govitha govitha 
+This is my first test file.
+GitHub upload test 1.
